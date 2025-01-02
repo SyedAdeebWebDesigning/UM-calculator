@@ -63,7 +63,7 @@ A visually appealing, user-friendly calculator built with **HTML**, **CSS**, and
 - Input: `4 x²`  
   Output: `16`
 - Input: `20 / 0`  
-  Output: `Error`
+  Output: `Infinity`
 
 ---
 
